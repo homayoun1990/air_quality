@@ -1,7 +1,29 @@
 Measurement_summary.csv
 Measurement_info.csv
-.ipynb_checkpoints
 
+### Database ###
+*.accdb
+*.db
+*.dbf
+*.mdb
+*.pdb
+*.sqlite3
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
+# End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -10,7 +32,6 @@ __pycache__/
 
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/
