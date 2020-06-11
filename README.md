@@ -1,0 +1,5 @@
+# air_quality
+
+Satellite remote sensing of air quality has evolved dramatically over the last decade. Global observations are now available for a wide range of species including aerosols, tropospheric O3, tropospheric NO2, CO, HCHO, and SO2. Capabilities for satellite remote sensing of these species in the boundary layer are reviewed for current instruments, along with physical processes affecting their accuracy and precision. Applications of satellite observations are discussed for case studies of specific events, for estimates of surface concentrations, and to improve emission inventories of trace gases and aerosols. Aerosol remote sensing at visible wavelengths exhibits high sensitivity to boundary layer concentrations. Although atmospheric scattering and surface emission of thermal radiation generally reduce instrument sensitivity to trace gases near the surface, a strong boundary layer signal in NO2 arises from its large boundary layer concentrations relative to the free troposphere.
+
++ https://doi.org/10.1016/j.atmosenv.2008.07.018
